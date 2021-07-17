@@ -20,3 +20,7 @@ _My goal is self-development, programming is a great way to make yourself and th
    * __Git__
    * __VS Code__
 
+### Work experience:
+
+   * Front-end development courses at MyIt school (homeworks)
+   * [example ](https://github.com/iruseg00/Lessons_HCJ/tree/master/yanito/medium)
