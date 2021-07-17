@@ -43,3 +43,11 @@ for(i = 1; i <=100; i++){
     console.log(i);
 }
 ```
+
+### Education:
+
+  _**specialty:** Commercial business ("Brest State University Trade and Technology College")_ 
+
+### Languages:
+
+ > * __English__ - A2
