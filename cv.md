@@ -24,3 +24,22 @@ _My goal is self-development, programming is a great way to make yourself and th
 
    * Front-end development courses at MyIt school (homeworks)
    * [example ](https://github.com/iruseg00/Lessons_HCJ/tree/master/yanito/medium)
+  
+### Code examples:
+
+```
+for(i = 1; i <=100; i++){
+    if(i % 3 == 0 && i % 5 == 0){
+        console.log('FizzBuzz');
+        continue;
+    };
+    if(i % 3 == 0){
+        console.log('Fizz');       
+        continue;
+    }else if(i % 5 == 0){
+        console.log('Buzz');
+        continue;
+    }
+    console.log(i);
+}
+```
