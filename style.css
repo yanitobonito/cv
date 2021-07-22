@@ -28,7 +28,7 @@ header {
     font-size: 20px;
     color: white;
     align-self: center;
-    margin-top: 90px;
+    /* margin-top: 90px; */
     border: 4px solid white;
     padding: 0px 15px;
 }
@@ -93,5 +93,27 @@ article {
     align-items: flex-start;
 }
 
+a {
+    color: black;
+}
 
+footer {
+    height: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
+.git_and_date {
+    font-size: 20px;
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+#logo {
+    width: 200px;
+    height: 100px;
+    background-color: white;
+    margin: 10px;
+}
