@@ -1,0 +1,32 @@
+
+* {
+    margin: 0px;
+}
+
+.main_container {
+    margin: 0px 100px;
+    color: white;
+    background-color: rgb(117, 117, 117); 
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.name {
+    color: white;
+    display: block;
+    align-self: center;
+}
+
+.contacts {
+    font-size: 20px;
+    color: white;
+    align-self: center;
+    margin-top: 70px;
+}
+
+.photo {
+    border-radius: 15px;
+}
