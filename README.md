@@ -1,3 +1,3 @@
-# rsschool-cv
+# cv
 
 https://yanitobonito.github.io/rsschool-cv/
